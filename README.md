@@ -71,4 +71,5 @@ The system exposes the following API routes:
 
 These routes correspond to the identically named functions of the [TenantManagerSystem](https://github.com/AmoVanB/eces-tenant-manager/blob/master/src/main/java/de/tum/ei/lkn/eces/tenantmanager/TenantManagerSystem.java).
 
-See [tests](src/test) for examples of how to (and to not) use the interface.
+See the [example script](./example-usage.sh) for an example of how to use the API.
+See [tests](src/test) for other examples of how to (and to not) use the interface.
